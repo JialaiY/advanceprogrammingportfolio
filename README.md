@@ -10,7 +10,13 @@ Demo:
 
 Source Code: (https://github.com/JialaiY/advanceprogrammingportfolio/tree/main/src/Java(main))
 
-OI Program:
+### OI Program:
 A simple contact management system where contacts are stored in an array and saved to a file.
 
 Demo:
+
+![](https://github.com/JialaiY/advanceprogrammingportfolio/blob/main/images/IO%20demo.png?raw=true)
+
+Source Code: https://github.com/JialaiY/advanceprogrammingportfolio/blob/main/src/IO-Testing.zip
+
+Link to Current Source Code: https://replit.com/@9652805/IO-Testing
