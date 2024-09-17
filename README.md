@@ -15,8 +15,8 @@ A simple program where a user can input a string into a file and also read from 
 
 Demo:
 
-![](https://github.com/JialaiY/advanceprogrammingportfolio/blob/main/images/IO%20demo.png?raw=true)
+![](https://github.com/JialaiY/advanceprogrammingportfolio/blob/main/images/IO%20Screenshot.png?raw=true)
 
-Source Code: https://github.com/JialaiY/advanceprogrammingportfolio/blob/main/src/IO-Testing.zip
+Source Code: https: [//github.com/JialaiY/advanceprogrammingportfolio/blob/main/src/IO-Testing.zip](https://github.com/JialaiY/advanceprogrammingportfolio/blob/main/src/IO%20Testing/MyProgram.java)
 
 Link to Current Source Code: https://replit.com/@9652805/IO-Testing
