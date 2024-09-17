@@ -18,5 +18,3 @@ Demo:
 ![](https://github.com/JialaiY/advanceprogrammingportfolio/blob/main/images/IO%20Screenshot.png?raw=true)
 
 Source Code: https: [//github.com/JialaiY/advanceprogrammingportfolio/blob/main/src/IO-Testing.zip](https://github.com/JialaiY/advanceprogrammingportfolio/blob/main/src/IO%20Testing/MyProgram.java)
-
-Link to Current Source Code: https://replit.com/@9652805/IO-Testing
