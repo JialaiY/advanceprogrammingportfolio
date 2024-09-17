@@ -10,8 +10,8 @@ Demo:
 
 Source Code: (https://github.com/JialaiY/advanceprogrammingportfolio/tree/main/src/Java(main))
 
-### OI Program:
-A simple contact management system where contacts are stored in an array and saved to a file.
+### I/O Program:
+A simple program where a user can input a string into a file and also read from it.
 
 Demo:
 
