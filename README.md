@@ -18,3 +18,6 @@ Demo:
 ![](https://github.com/JialaiY/advanceprogrammingportfolio/blob/main/images/IO%20Screenshot.png?raw=true)
 
 Source Code: https: [//github.com/JialaiY/advanceprogrammingportfolio/blob/main/src/IO-Testing.zip](https://github.com/JialaiY/advanceprogrammingportfolio/blob/main/src/IO%20Testing/MyProgram.java)
+
+### Inheritance App:
+This is a program that uses the inheritance model to oveview Language Family, Language, Dialect, etc.
