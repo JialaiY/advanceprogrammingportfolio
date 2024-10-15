@@ -21,3 +21,6 @@ Source Code: https: [//github.com/JialaiY/advanceprogrammingportfolio/blob/main/
 
 ### Inheritance App:
 This is a program that uses the inheritance model to oveview Language Family, Language, Dialect, etc.
+
+Source Code: (https://github.com/JialaiY/advanceprogrammingportfolio/tree/main/src/Inheritance-App)
+
