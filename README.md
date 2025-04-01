@@ -10,4 +10,4 @@ Logic/Class Diagram:
 
 Demo:
 
-![](https://github.com/JialaiY/advanceprogrammingportfolio/blob/main/images/better%20mockup.png?raw=true)
+![](https://github.com/JialaiY/advanceprogrammingportfolio/blob/main/images/better%20calss%20diagram.png?raw=true)
