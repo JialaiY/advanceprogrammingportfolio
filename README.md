@@ -5,9 +5,7 @@ Protect the Balloon is a Java-based game using an object-oriented approach with 
 GUI, Inheritance, Exception Handling (try and catch block at start of game), Enhanced for loop (game loop)
 
 Logic/Class Diagram:
-
-![](https://github.com/JialaiY/advanceprogrammingportfolio/blob/main/images/class%20diagram.png?raw=true)
+![](https://github.com/JialaiY/advanceprogrammingportfolio/blob/main/images/better%20calss%20diagram.png?raw=true)
 
 Demo:
-
-![](https://github.com/JialaiY/advanceprogrammingportfolio/blob/main/images/better%20calss%20diagram.png?raw=true)
+![]
