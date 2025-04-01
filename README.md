@@ -7,3 +7,4 @@ Logic/Class Diagram:
 ![](https://github.com/JialaiY/advanceprogrammingportfolio/blob/main/images/class%20diagram.png?raw=true)
 
 Demo:
+![](https://github.com/JialaiY/advanceprogrammingportfolio/blob/main/images/mockup.png?raw=true)
