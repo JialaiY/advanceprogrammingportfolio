@@ -10,6 +10,6 @@ Logic/Class Diagram:
 
 Demo:
 
-![](https://github.com/JialaiY/advanceprogrammingportfolio/blob/main/images/mockup.png?raw=truee)
+![](https://github.com/JialaiY/advanceprogrammingportfolio/blob/main/images/demo.png?raw=true)
 ![](https://github.com/JialaiY/advanceprogrammingportfolio/blob/main/images/mockup.png?raw=truee)
 
