@@ -10,5 +10,5 @@ Logic/Class Diagram:
 
 Demo:
 
-![](https://github.com/JialaiY/advanceprogrammingportfolio/blob/main/images/better%20mockup.png?raw=true)
+![](https://github.com/JialaiY/advanceprogrammingportfolio/blob/main/images/mockup.png?raw=truee)
 
