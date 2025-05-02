@@ -1,6 +1,6 @@
-public class Button {
+class Button {
   String label;
-  float x, y, w = 80, h = 40;
+  float x, y, w = 100, h = 40;
 
   Button(String label, float x, float y) {
     this.label = label;
@@ -9,8 +9,8 @@ public class Button {
   }
 
   void display() {
-    fill(100);
-    rect(x, y, w, h);
+    fill(0, 150, 200);
+    rect(x, y, w, h, 10);
     fill(255);
     textAlign(CENTER, CENTER);
     text(label, x + w / 2, y + h / 2);

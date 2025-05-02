@@ -4,7 +4,7 @@ class TrashCell extends Cell {
   }
 
   void display() {
-    fill(255, 0, 0);
-    rect(x * 50, y * 50, 50, 50);
+    fill(139, 69, 19); // Brown for mole
+    ellipse(x * 50 + 25, y * 50 + 25, 40, 40);
   }
 }
